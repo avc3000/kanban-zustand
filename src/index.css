@@ -1,0 +1,16 @@
+:root {
+  --COLOR-GRAY: #333;
+  --COLOR-GRAY-DARK: #222;
+  --COLOR-GRAY-LIGHT: yellow;
+  --COLOR-ONGOING: green;
+  --COLOR-DONE: #ee6c4d;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}

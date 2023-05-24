@@ -1,0 +1,19 @@
+.contentApp {
+  background: var(--COLOR-GRAY);
+  display: grid;
+}
+
+.titleApp {
+  display: flex;
+  justify-content: center;
+  color: orange;
+  font-weight: bold;
+}
+
+.app {
+  background: var(--COLOR-GRAY);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
